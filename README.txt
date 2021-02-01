@@ -1,6 +1,6 @@
 Info on TFAV
 
-TFAV is a very basic .bat and .vbs fork bomb. It does not deal major damage to computers, and is only a prank "virus".
+TFAV is a very basic .bat and .vbs fork bomb. It does not deal damage to computers, and is only a prank "virus".
 
 TFAV is meant to be put onto a USB drive that can hold under 10kb of storage (the whole thing is 8kb), that can be put into a computer.
 
@@ -19,6 +19,8 @@ With USB:
 
 Without USB:
 
-1. Restart your PC/Laptop.
+1. Press the CTRL+ALT+DEL keys on your keyboard.
+2. At the bottom right, right click the power icon.
+3. Restart your PC/Laptop.
 
 I am afraid there isn't a way to contact me for support or bugs.
