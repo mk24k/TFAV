@@ -1,12 +1,12 @@
 Info on TFAV
 
-TFAV is a very basic .bat and .vbs fork bomb. It does not deal damage to computers, and is only a prank "virus".
+TFAV is a very basic .bat and .vbs fork bomb. It does not deal significant damage to machines, and is only a prank "virus".
 
-TFAV is meant to be put onto a USB drive that can hold under 10kb of storage (the whole thing is 8kb), that can be put into a computer.
+TFAV is meant to be put onto a USB drive that can hold under 10kb of storage (the whole thing is 8kb), that then will be put into a computer and executed
 
-TFAV is only meant for Windows. It is not compatible with Apple, Linux or any other software, as I designed it on Windows only.
+TFAV can only be ran on Windows. It is not compatible with other softwares.
 
-IMPORTANT: TFAV will only run correctly if ran from the TFAV shortcut.
+IMPORTANT: TFAV will only run correctly if executed from the TFAV shortcut.
 
 TFAV can be closed easily. There are a set of instructions below.
 
@@ -24,3 +24,5 @@ Without USB:
 3. Restart your PC/Laptop.
 
 I am afraid there isn't a way to contact me for support or bugs.
+
+I will not be adding a more harmful version (eg. ip logger weblink direct) for the forseeable future.
